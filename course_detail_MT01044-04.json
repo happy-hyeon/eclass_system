@@ -1,0 +1,14 @@
+{
+  "notices": [
+    "팀 프로젝트 발표 순서 공지",
+    "휴강 안내 및 보강 동영상 업로드 완료"
+  ],
+  "materials": [
+    "ngo_study.txt",
+    "global_leadership.txt"
+  ],
+  "assignments": [
+    { "title": "현대 시민사회의 문제점과 대안 보고서", "deadline": "2026-06-12" },
+    { "title": "팀별 리더십 사례 연구 PPT 제출", "deadline": "2026-06-18" }
+  ]
+}

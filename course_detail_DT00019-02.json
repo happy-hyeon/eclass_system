@@ -1,0 +1,11 @@
+{
+  "notices": [
+    "6월 3일 수업은 준비시간으로 합니다.",
+    "Final Project (15:30pm, 50주년기념관 326)",
+    "프로프절 (평가 없습니다)"
+  ],
+  "assignments": [
+    { "title": "중간고사", "deadline": "2026-04-25" },
+    { "title": "Final Project", "deadline": "2026-06-17" }
+  ]
+}
