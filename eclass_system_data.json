@@ -1,0 +1,22 @@
+{
+  "studentId": "202411000",
+  "studentName": "홍길동",
+  "enrolledCourses": [
+    {
+      "courseName": "자바 프로그래밍",
+      "notices": ["[자바] GUI 텀프로젝트 최종 제출 안내", "[공지] 기말고사 비대면 전환 안내"],
+      "materials": ["자바_11차시_Swing_이벤트.txt"],
+      "assignments": [
+        { "title": "자바 GUI 텀프로젝트", "deadline": "2026-06-15", "difficulty": 3 }
+      ]
+    },
+    {
+      "courseName": "데이터사이언스 입문",
+      "notices": ["[데사] 데이터 전처리 보고서 가이드"],
+      "materials": ["데사_10차시_정형데이터분석.txt"],
+      "assignments": [
+        { "title": "Pandas 결측치 전처리 과제", "deadline": "2026-06-20", "difficulty": 2 }
+      ]
+    }
+  ]
+}
