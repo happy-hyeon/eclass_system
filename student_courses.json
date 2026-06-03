@@ -1,0 +1,11 @@
+{
+  "id": "swu2026",
+  "password": "java1234",
+  "name": "김데사",
+  "studentId": "2024110321",
+  "department": "데이터사이언스학과",
+  "courses": [
+    { "name": "데이터구조", "id": "ds01" },
+    { "name": "오픈소스소프트웨어", "id": "oss02" }
+  ]
+}
