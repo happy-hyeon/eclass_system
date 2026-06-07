@@ -1,8 +1,8 @@
 {
   "id": "swu",
   "password": "java",
-  "name": "윤서현",
-  "studentId": "2024111800",
+  "name": "박길동",
+  "studentId": "2020111932",
   "department": "데이터사이언스학과",
   "courses": [
     { "name": "JAVA프로그래밍기초", "id": "MT01044-04" },
@@ -15,8 +15,8 @@
 {
   "id": "swu2",
   "password": "java2",
-  "name": "윤서진",
-  "studentId": "2020111800",
+  "name": "김길동",
+  "studentId": "2020112436",
   "department": "멀티미디어학과",
   "courses": [
     { "name": "JAVA프로그래밍기초", "id": "MT01044-04" },
